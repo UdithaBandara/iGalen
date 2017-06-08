@@ -8,6 +8,7 @@
         Uditha Bandara
     </author>
     <content src="index.html" />
+    <preference name="phonegap-version" value="cli-6.0.0"/>
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
